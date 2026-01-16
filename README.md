@@ -1,4 +1,4 @@
-# FastAPI TODO (Hexagonal Architecture)
+# TaskBoard BackEnd
 
 Aplicación TODO con FastAPI siguiendo una arquitectura hexagonal sencilla.
 
@@ -9,7 +9,7 @@ docker build -t fastapi-todo .
 docker run -p 8000:8000 fastapi-todo
 ```
 
-API disponible en `http://localhost:8000`. Documentación interactiva en `/docs` y `/redoc`.
+API disponible en `http://localhost:8000`. Documentación interactiva en `/docs`.
 
 ## Endpoints
 
